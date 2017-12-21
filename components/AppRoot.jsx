@@ -3,7 +3,7 @@ import React from 'react';
 import ListStore from '../stores/ListStore';
 import AppDispatcher from '../dispatcher/AppDispatcher';
 
-// Sub components
+// Sub components 
 import NewItemForm from './NewItemForm';
 
 // Method to retrieve state from Stores
